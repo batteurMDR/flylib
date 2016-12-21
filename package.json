@@ -1,0 +1,12 @@
+{
+  "name": "flylib",
+  "version": "0.0.2",
+  "description": "The extension to code with premos, used by FlyCode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/batteurMDR/flylib",
+  "author": "batteurmdr",
+  "license": "MIT"
+}
